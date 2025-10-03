@@ -3,18 +3,19 @@
 This repository contains projects and assignments from my **Techsavia Data Analytics Bootcamp**.  
 The bootcamp covers key data analysis tools and techniques, including:
 
-- 📊 Excel (pivot tables, Power Query, Power Pivot)  
+- 📊 Excel (pivot tables, Power Query, Power Pivot)
+- 📈 Data Visualization (Tableau/Power BI)  
 - 🗄️ SQL (data querying, joins, aggregation)  
 - 🐍 Python (pandas, matplotlib, seaborn)  
-- 📈 Data Visualization (Tableau/Power BI)  
+
 
 ---
 
 ## 📂 Repository Structure
-- `Excel/` → Projects done with Excel  
+- `Excel/` → Projects done with Excel
+- - `Power BI and Visualization/` → Dashboards and visual projects  
 - `SQL/` → SQL scripts and queries  
 - `Python/` → Jupyter notebooks and analysis scripts  
-- `Visualization/` → Dashboards and visual projects  
 
 ---
 
