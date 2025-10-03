@@ -28,5 +28,5 @@ The bootcamp covers key data analysis tools and techniques, including:
 I’m Elliot Kumedzro Boateng, an IT graduate passionate about turning raw data into actionable insights.  
 Currently completing my **Techsavia Data Analytics Bootcamp** while building a career in tech.  
 
-- LinkedIn: [Elliot Kumedzro](www.linkedin.com/in/elliot-kumedzro-b6570a205)  
+- LinkedIn: www.linkedin.com/in/elliot-kumedzro-b6570a205 
 - GitHub: [Ellsk](https://github.com/Ellsk)  
