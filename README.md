@@ -13,7 +13,7 @@ The bootcamp covers key data analysis tools and techniques, including:
 
 ## 📂 Repository Structure
 - `Excel/` → Projects done with Excel
-- - `Power BI and Visualization/` → Dashboards and visual projects  
+- `Power BI and Visualization/` → Dashboards and visual projects  
 - `SQL/` → SQL scripts and queries  
 - `Python/` → Jupyter notebooks and analysis scripts  
 
