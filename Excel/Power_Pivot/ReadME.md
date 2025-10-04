@@ -75,7 +75,7 @@ Enhanced the dashboard by adding **Timeline slicers** and linking visuals togeth
 The sales volume for **New York in Q2** was **$84,420,000**.
 
 ✅ **Final Result:**  
-The **CRO dashboard** is now interactive and allows dynamic exploration by **date, team, and region**.
+The **CRO dashboard** is now interactive and allows dynamic exploration by **date, department, heads, and offices**.
 
 ---
 
