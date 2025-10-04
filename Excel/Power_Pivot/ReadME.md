@@ -90,7 +90,6 @@ The **CRO dashboard** is now interactive and allows dynamic exploration by **dat
 
 ## 📸 Dashboard Preview
  
-`![Dashboard Screenshot]`
 <img width="1366" height="768" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/4bb091ac-0661-4556-a26e-a4132e681120" />
 
 ---
