@@ -1,4 +1,4 @@
-# 🧮 Power Pivot – Loan Data Analysis
+# Power Pivot – Loan Data Analysis
 
 This project contains exercises from my **Data Analytics Bootcamp** using **Power Pivot in Excel**.  
 The goal was to understand **calculated columns**, the **RELATED() function**, **measures**, and **interactive dashboards** using **DAX** for analyzing loan data.
@@ -90,7 +90,7 @@ The **CRO dashboard** is now interactive and allows dynamic exploration by **dat
 
 ## 📸 Dashboard Preview
  
-<img width="1366" height="768" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/4bb091ac-0661-4556-a26e-a4132e681120" />
+<img width="1366" height="476" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/0a6f9793-292e-4dc6-9545-b8be081113fe" />
 
 ---
 
